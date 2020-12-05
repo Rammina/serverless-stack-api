@@ -20,3 +20,36 @@ functions:
   delete: notes-api-prod-delete
 layers:
   None
+
+////////////////////////////////////////
+API Gateway
+
+id
+j8c49uamw6
+invoke URL
+https://j8c49uamw6.execute-api.us-east-1.amazonaws.com/prod
+
+
+
+
+////////////////////////////////////////
+Cognito
+
+user pool
+Pool Id 
+us-east-1_bA5vGa1GW
+Pool ARN 
+arn:aws:cognito-idp:us-east-1:763178544191:userpool/us-east-1_bA5vGa1GW
+
+identity pool
+id 
+us-east-1:860df5ce-ecb9-459f-a9c9-e36ecc0ce6a4
+
+app client ID
+36o49ge8isdgtdlrjs1e9iip16
+
+ ////////////////////////////////////////
+S3
+
+bucket name: 
+notes-app-uploads-rammina
