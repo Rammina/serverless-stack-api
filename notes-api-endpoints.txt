@@ -53,3 +53,12 @@ S3
 
 bucket name: 
 notes-app-uploads-rammina
+
+
+
+/////////////////////////////////////////
+stripe
+publishable key
+pk_test_51HuvlhH0GxnacGIVcDo6nNFJyrqaIWfmAdDWA7xn1vQHA42Lac4pbCCo5DSxUQPYabhx8hzYs3K1u5ahkr9crWER00DOtt9w9C
+secret key
+sk_test_51HuvlhH0GxnacGIVfcoKk0BMEODQP5Fab3UTVHbvZSXpimexgQ3PccXdbF9ndNJVq9ROKdFPmzvi9QlrP6qW033t00bYeibeEI
